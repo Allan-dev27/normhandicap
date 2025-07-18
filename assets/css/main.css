@@ -45,7 +45,7 @@
 }
 
 .dark-background {
-  --background-color: #37517e;
+  --background-color: #5129b0;
   --default-color: #ffffff;
   --heading-color: #ffffff;
   --surface-color: #4668a2;
@@ -143,7 +143,7 @@ h6 {
 # Global Header
 --------------------------------------------------------------*/
 .header {
-  --background-color: #3d4d6a;
+  --background-color: #5129b0;
   --heading-color: #ffffff;
   color: var(--default-color);
   background-color: var(--background-color);
@@ -214,7 +214,7 @@ h6 {
 /* Index Page Header on Scroll
 ------------------------------*/
 .index-page.scrolled .header {
-  --background-color: rgba(40, 58, 90, 0.9);
+  --background-color: #5129b0;
 }
 
 /*--------------------------------------------------------------
